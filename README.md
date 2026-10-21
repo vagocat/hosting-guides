@@ -12,10 +12,12 @@ No jargon, no fluff. Just the steps that actually work.
 | [Email that lands: SPF, DKIM & DMARC](email-spf-dkim-dmarc.md) | Stop your email going to spam |
 | [Move a website with zero downtime](migrate-your-website.md) | Migrate hosts without your site going offline |
 | [WordPress security checklist](wordpress-security.md) | Lock down a WordPress site in an afternoon |
+| [Set up business email on your devices](email-on-your-devices.md) | iPhone, Android and Outlook, step by step |
+| [Your first 10 minutes on a new VPS](vps-first-10-minutes.md) | Updates, a safe user, SSH keys, firewall |
 
 ## Want hosting that just works?
 
-Fast web hosting, VPS, domains and an AI website builder — with real 24/7 human support, in 5 languages.
+Fast web hosting, VPS, domains and business email — with real 24/7 human support, in 7 languages.
 
 👉 **[vagocat.com](https://vagocat.com)**
 

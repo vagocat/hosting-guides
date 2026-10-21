@@ -11,7 +11,7 @@ DNS is the phone book of the internet: it turns a name people can remember (`you
 | **CNAME** | Makes one name an alias of another (not allowed on the root domain) | `www → yoursite.com` |
 | **MX** | Says which server receives your email (with a priority) | `10 mx1.mailprovider.com` |
 | **TXT** | Free-form text — used for SPF, DKIM, domain verification | `v=spf1 ...` |
-| **NS** | The authoritative nameservers for your domain | `ns1.vagocat.com` |
+| **NS** | The authoritative nameservers for your domain | `erebus.vagocat.com` |
 
 ## TTL (Time To Live)
 

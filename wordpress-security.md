@@ -8,7 +8,7 @@ WordPress runs a huge share of the web, which makes it a target. The good news: 
 - [ ] **Avoid the `admin` username** — create a uniquely-named admin and delete `admin`.
 - [ ] **Keep core, themes and plugins updated** — most hacks exploit known, already-patched bugs.
 - [ ] **Remove what you don't use** — deactivate *and delete* unused plugins/themes.
-- [ ] **Daily backups**, stored off the server (so you can always roll back).
+- [ ] **Regular backups**, with a copy stored off the server (so you can always roll back).
 - [ ] **Free SSL / HTTPS** on the whole site.
 
 ## A step further
